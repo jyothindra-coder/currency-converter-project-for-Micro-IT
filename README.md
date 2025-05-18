@@ -26,7 +26,7 @@ A simple and colorful **Tkinter**-based desktop currency converter app with supp
 
 1. Make sure you have Python installed (version 3.x recommended).
 
-2. Clone this repository or download the `colorful_currency_converter.py` file.
+2. Clone this repository or download the `currency_converter.py` file.
 
 3. Run the script:
 
